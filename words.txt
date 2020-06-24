@@ -1,0 +1,10 @@
+food, PIZZA 
+rapper, DRAKE
+car, TESLA
+fruit, APPLE
+country, CANADA
+drink, SPRITE
+city, TORONTO
+games, FORTNITE
+holiday, CHRISTMAS
+sports, BASKETBALL
